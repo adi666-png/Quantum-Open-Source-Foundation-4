@@ -1,6 +1,6 @@
 # Quantum-Open-Source-Foundation-Cohort-4
 
-This repository contains the solutions for `task2` and `task3` for QOSF Cohort 4. This is a team submission.
+This repository contains the solutions for `task2` and `task3` for QOSF Cohort 4.
 
 The `task2` sub-folder contains a file named `qosf_task2.ipynb` which contains the solution code for the task2 and assosciated comments.
 The file `examples.ipynb` contains the results obtained for different variations of the input (random) states to the VQC.
